@@ -8,13 +8,18 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: [Alexandre Andrade 119279] 
+- Student 2: [Miguel Neto 119302]
+- Student 3: [Thiago Vicente 121497]
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
- > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
+> 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
+
+ A motivação por trás desta ideia advém das dificuldades crescentes de muitos estudantes em arranjar alojamento por questões universitárias, sobretudo pessoas que vêm de longe. Numa atualidade onde há estudantes que desistem da universidade ou acabam por ter a sua escolha limitada por questões habitacionais, a própria procura/descoberta de lugares que estejam disponíveis pode ser difícil, passando muitas vezes pela troca de contactos de senhorios entre estudantes, o que se torna bastante ineficaz.
+ 
+Como tal, propúnhamos uma plataforma que beneficiasse não só o estudante, facilitando a procura de alojamentos (com possível feedback de moradores anteriores, fotos, preferências, ...), bem como os senhorios, através por exemplo de uma funcionalidade de chat entre eles e os estudantes interessados.
+
 
 <!-- For this stage you will need to read this:-->
 
