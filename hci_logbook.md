@@ -6,7 +6,7 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: [EasyRoom]
 **Team:**
 - Student 1: [Alexandre Andrade 119279] 
 - Student 2: [Miguel Neto 119302]
