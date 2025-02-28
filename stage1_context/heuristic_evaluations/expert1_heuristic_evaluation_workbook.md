@@ -2,9 +2,9 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
+**Evaluator**: [Alexandre Andrade]
 **Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Product**: [BQuarto]
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
@@ -14,10 +14,12 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design clearly communicate its state?
 >	- Is feedback presented quickly after user actions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                                                                                                | **Severity** | Recommendation                                      |
+| ---------------------------------------------------------------------------------------------------------| ------------ | ----------------------------------------------------|
+| Botões de mudar de linguagem não funcionam/mostram feedback                                              | 3            | Implementar a funcionalidade e dar feedback ao user |
+| Clicar nos detalhes de um quarto leva a uma página vazia                                                 | 4            |                                                     |
+| Botões de ver os anúncios de alojamento ou de procura de quarto na home page levam a uma página vazia    | 4            |                                                     |
+
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
