@@ -12,11 +12,9 @@
 ## B.1a. Competitors
 
 
-| **Competitor**    | **Description**                             | Information repository              |
-| ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| **Competitor**    | **Description**                            			| Information repository              |
+| ----------------- | ----------------------------------------------------------------- | ----------------------------------- |
+| [BQuarto]	    | [Plataforma online de procura e publicidade de alojamento]        | [[Competitor Analysis BQuarto](competitors/Competitor%20Analysis%20BQuarto.md)]	|
 
 
 
