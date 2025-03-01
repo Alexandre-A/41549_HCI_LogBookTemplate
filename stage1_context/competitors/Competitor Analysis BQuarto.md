@@ -10,13 +10,13 @@
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:** [O objetivo do nosso competidor passa pela criação de uma plataforma que facilite a procura de alojamento e o anúncio dos mesmos] 
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:** - [Procura de alojamento] - [Publicação de anúncios] - [Chat com senhorios] 
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):** - [Coverage a nível nacional, variedade de filtros para procura personalizada] 
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+**Limitations/Weaknesses:** - [Várias features mal implementadas, repetidas ou não explícitas para o user] 
 
 ---
 
