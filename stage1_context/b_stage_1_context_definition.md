@@ -103,7 +103,18 @@ Task: [This is the task]
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+*[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]*
+
+De modo a obter a maior quantidade de informação útil para o nosso caso de estudo, focámo-nos em adquirir o feedback de estudantes universitários, uma vez que acabam por ser o nosso principal público-alvo.
+Recorremos a 2 métodos para abordar os users em questão: um formulário feito com recurso ao google forms e entrevistas em aula aos colegas da nossa turma prática, como iniciativa do nosso professor.
+
+Apesar de cair um pouco "fora do âmbito" do que era pedido nesta secção de entrevistas, optámos pela criação de um tal formulário, porque achámos que era algo que seria de fácil criação, facilmente partilhável e simples de responder. Sendo este forms online, também nos permitiu alcançar usuários de diversas localidades e universidades, para além de não haver a necessidade de estar presentes fisicamente para estas entrevistas poderem decorrer, sendo apenas pedido 5 minutos do tempo dos intervenientes.
+
+Com estes recursos, o nosso objetivo era por um lado ouvir as várias experiências que cada pessoa pudesse ter tido relativamente à procura de alojamento por questões universitárias, bem como abordar de forma geral problemas que as soluções atuais para este problema possam ter e receber ligeiro feedback sobre o competidor por nós escolhido, BQuartos.
+
+Como tal, no formulário online tocámos em assuntos como os métodos a que os usuários recorreram para obter informação sobre os alojamentos na cidade da universidade onde estudam, que "features" procurariam numa plataforma online que procurasse facilitar este processo, pontos fortes e fracos das soluções atuais, entre outros. Criámos igualmente uma breve secção dedicada ao nosso concorrente, BQuartos, como referido anteriormente, para podermos possivelmente expandir ou confirmar os problemas levantados na avaliação heurística por nós realizada. 
+
+Nas entrevistas presenciais realizadas em aula, focámo-nos principalmente nas experiências e feedback dos users com o processo de procura de alojamento, pois sentimos que para o âmbito da atividade realizada em aula, não se adequava tanto questionar sobre o nosso concorrente.
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
