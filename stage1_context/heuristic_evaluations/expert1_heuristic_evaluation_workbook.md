@@ -17,8 +17,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                                | **Severity** | Recommendation                                      |
 | ---------------------------------------------------------------------------------------------------------| ------------ | ----------------------------------------------------|
 | Botões de mudar de linguagem não funcionam/mostram feedback                                              | 3            | Implementar a funcionalidade e dar feedback ao user |
-| Clicar nos detalhes de um quarto leva a uma página vazia                                                 | 4            | Corrigir funcionalidade mal implementada            |
-| Botões de ver os anúncios de alojamento ou de procura de quarto na home page levam a uma página vazia    | 4            | Corrigir funcionalidade mal implementada            |
+| Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro                                                 | 4            | Corrigir funcionalidade mal implementada            |
 
 
 # 2 Match Between System and The Real World
@@ -28,7 +27,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| _______________ | ____________ | _______________________ |
+| O design dos botões nos anúncios não indicam o que fazem | ____________ | _______________________ |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -39,8 +38,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                                                                   | **Severity** | Recommendation                         |
 | ------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- |
-| Menssagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar | 4            | Deixá-las visíveis mas impedir escrita |
-| Em certas secções, mudar de idioma implica ter conta                                        | 3            | Tornar a mudança de idioma universal   |
+| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas | 4            | Deixá-las visíveis mas impedir escrita |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -58,8 +56,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                                                                                        | **Severity** | Recommendation                                         |
 | ---------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------ |
-| Botões de ver os anúncios de alojamento ou de procura de quarto existentes na home page levam a uma página vazia | 4            | Corrigir funcionalidade e dar feedback em caso de erro |
-| Clicar nos detalhes de um quarto leva a uma página vazia                                                         | 4            | Corrigir funcionalidade e dar feedback em caso de erro |
+| Clicar em anúncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que houve um erro | 4            | Corrigir funcionalidade e dar feedback em caso de erro |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -78,7 +75,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                                                                        | **Severity** | Recommendation |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------- |
 | Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido | 2            | Permitir inserção direta dos valores pretendidos               |
-| O mapa é uma imagem estática                                                                                                                     | 1            | Tornar o mapa dinâmico para permitir procura nos arredores               |
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -88,6 +84,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                                    | **Severity** | Recommendation                                         |
 | -------------------------------------------------------------------------------------------------------------| ------------ | ------------------------------------------------------ |
 | Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming | 2            | Simplificar o design, eliminando coisas desnecessárias |
+| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads | _______       | ________ |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
@@ -97,7 +94,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                                        | **Severity** | Recommendation               |
 | ---------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------- |
 | Botões de ver os anúncios de alojamento ou de procura de quarto existentes na home page levam a uma página vazia | 4            | Dar feedback em caso de erro |
-| Clicar nos detalhes de um quarto leva a uma página vazia                                                         | 4            | Dar feedback em caso de erro |
 
 # 10 Help and Documentation
 >	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
@@ -106,5 +102,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                          | **Severity** | Recommendation                                 |
 | -------------------------------------------------- | ------------ | ---------------------------------------------- |
-| Os filtros de anuncios não têm labels explicativas | 3            | Tornar as labels mais explícitas               |
-| Alguns botões nos anuncios não indicam oq fazem    | 2            | Tornar os botões mais explícitos               |
+| Filtros sem uma label explicativa ( "outro" ) | ______       | ________               |
+| Botões nos anúncios não indicam o que fazem    | ______     | _______ |
+| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem |  ______   |  ____  |
