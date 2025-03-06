@@ -6,7 +6,7 @@
 
 ## Background  
 [Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]
-O #nome é um estudante deslocado e entrou agora na universidade de Aveiro e está a procura de um quarto perto do seu departamento. 
+O #nome é um estudante estrangeiro proveniente de ___, que entrou este ano na Universidade de Aveiro e está a procura de um quarto perto do seu departamento. 
 
 ## Daily Life  
 [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
