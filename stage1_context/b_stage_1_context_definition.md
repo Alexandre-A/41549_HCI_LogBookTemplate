@@ -154,31 +154,35 @@ Nas entrevistas presenciais realizadas em aula, focámo-nos principalmente nas e
 ### Interview List (Presencial Interviews)
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
-| 27-02-2025 | (Eduardo Romano + Tiago Mendes) / students      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |
-| 27-02-2025        | Simão Santos / student                   |                                                                 | Ver nota abaixo                             |
-| 27-02-2025        | Pedro Fonseca / student                   |                                                                 | Ver nota abaixo                             |
-| 27-02-2025        | Tiago Oliveira / student                   |                                                                 |Ver nota abaixo                              |
-| 27-02-2025        | Catarina / student                  |                                                                 |       Ver nota abaixo                       |
-| 27-02-2025        | Matilde / student                  |                                                                 |        Ver nota abaixo                      |
-| 27-02-2025        | Gabriel Gonçalves / student                   |                                                                 | Ver nota abaixo                             |
-| 27-02-2025        | (Henrique + Rodrigo + Eduardo Rosário) / students                   |                                                                 | Ver nota abaixo                             |
+| 27-02-2025 | (Eduardo Romano + Tiago Mendes) / students      | Obtiveram online informações sobre o alojamento onde residem, criticam o tempo de resposta dos senhorios e procuram sobretudo acesso fácil a detalhes e reviews de alojamentos e filtragem personalizada de resultados | [📄 Notes](interview-Bob.md) |
+| 27-02-2025        | Simão Santos / student                   | Obteve localmente informações sobre o alojamento onde reside, critica a natureza confusa e falta de informação sobre os mesmos e procura sobretudo acesso fácil a detalhes e reviews de alojamentos e filtragem personalizada de resultados                                                                | Ver nota abaixo                             |
+| 27-02-2025        | Pedro Fonseca / student                   |  Obteve localmente informações sobre o alojamento onde reside, critica falta de contacto com os senhorios e falta de esclarecimento de detalhes dos alojamentos e procura sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e forum de divulgação publico                                                              | Ver nota abaixo                             |
+| 27-02-2025        | Tiago Oliveira / student                   |  Obteve online informações sobre o alojamento onde reside, critica falta de contacto com os senhorios e procura sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e feature de chat com senhorios                                                             |Ver nota abaixo                              |
+| 27-02-2025        | Catarina / student                  | Obteve online informações sobre o alojamento onde reside, critica falta de esclarecimento de detalhes dos alojamentos e procura sobretudo acesso fácil a detalhes e reviews de alojamentos e filtragem personalizada de resultados                                                                 |       Ver nota abaixo                       |
+| 27-02-2025        | Matilde / student                  |  Obteve localmente informações sobre o alojamento onde reside, critica falta de atualização de informação sobre os alojamentos e procura sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e feature de chat com senhorios                                                                |        Ver nota abaixo                      |
+| 27-02-2025        | Gabriel Gonçalves / student                   |   Obteve localmente informações sobre o alojamento onde reside, critica falta de reviews dos senhorios e procura sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e feature de chat com senhorios                                                            | Ver nota abaixo                             |
+| 27-02-2025        | (Henrique + Rodrigo + Eduardo Rosário) / students                   | Obtiveram localmente informações sobre o alojamento onde residem, criticam falta de atualização dos anúncios e procuram sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e reviews de senhorios                                                                | Ver nota abaixo                             |
 
 **Nota:** O link para as notas presente na tabela representa apenas uma representação "formal" das perguntas feitas presencialmente, tendo sido escolhido arbitrariamente um dos grupos entrevistado para o seu preenchimento. 
 Para ver o conjunto de resultados na sua extensão, consultar o seguinte link: [Presencial_Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1PkgK2dTlNVyNClTKK8XUEyoak6CA1qvrvgNpAFJJ-Ww/edit?usp=sharing) 
 #### Results of the google forms interview
-* Google sheets com os resultados: [Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1eWOvblwGFSEar0d18toHJbEqv9-zWmBSrRjTBFYxbM0/edit?usp=sharing)
+* Google sheets com os resultados das entrevistas online: [Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1eWOvblwGFSEar0d18toHJbEqv9-zWmBSrRjTBFYxbM0/edit?usp=sharing)
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Falta de contacto com os senhorios
+	- Falta de informação/informação desatualizada
+	- Preços elevados (apesar de não ser um problema causado pelo nosso competidor)
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- Páginas Web
+	- Contactos locais/anúncios locais
+	- Contacto através de amigos
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Reviews dos alojamentos e dos senhorios
+	- Fórum de divulgação de anúncios/informações entre pessoas
+	- Informações sobre contratos, distâncias a locais importantes, métodos de pagamento (Filtros personalizados)
+	- Detalhes e fotos dos alojamentos
 - --- 
 
 
