@@ -3,7 +3,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: [Alexandre Andrade]
-**Date**: [01-03-2025]
+**Date**: [08-03-2025]
 **Product**: [BQuarto]
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
@@ -18,6 +18,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | ---------------------------------------------------------------------------------------------------------| ------------ | ----------------------------------------------------|
 | Botões de mudar de linguagem não funcionam/mostram feedback                                              | 3            | Implementar a funcionalidade e dar feedback ao user |
 | Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro                                                 | 4            | Corrigir funcionalidade mal implementada            |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar               | 4            | Retirar opção de assinatura ou permitir a visualização das mensagens após o término do contrato, mesmo não podendo enviar novas mensagens |
+| O mapa é uma imagem estática                                                                             | 2            | Implementar um mapa dinâmico, dando liberdade ao user |
+
 
 
 # 2 Match Between System and The Real World
@@ -27,7 +30,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| O design dos botões nos anúncios não indicam o que fazem | ____________ | _______________________ |
+| O design dos botões nos anúncios não indicam o que fazem | 2 | Tornar os botões mais explícitos |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -75,6 +78,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                                                                        | **Severity** | Recommendation |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------- |
 | Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido | 2            | Permitir inserção direta dos valores pretendidos               |
+| O mapa é uma imagem estática | 2            | Implementar um mapa dinâmico, dando liberdade ao user |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar | 4            | Retirar opção de assinatura ou permitir a visualização das mensagens após o término do contrato, mesmo não podendo enviar novas mensagens |
+
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -84,7 +90,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                                                                                                    | **Severity** | Recommendation                                         |
 | -------------------------------------------------------------------------------------------------------------| ------------ | ------------------------------------------------------ |
 | Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming | 2            | Simplificar o design, eliminando coisas desnecessárias |
-| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads | _______       | ________ |
+| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads | 2       | Evitar redundâncias desnecessárias |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
@@ -102,6 +108,6 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                          | **Severity** | Recommendation                                 |
 | -------------------------------------------------- | ------------ | ---------------------------------------------- |
-| Filtros sem uma label explicativa ( "outro" ) | ______       | ________               |
-| Botões nos anúncios não indicam o que fazem    | ______     | _______ |
-| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem |  ______   |  ____  |
+| Filtros sem uma label explicativa ( "outro" ) | 3       | Tornar os filtros mais explícitos              |
+| Botões nos anúncios não indicam o que fazem    | 3     | Tornar os botões mais explícitos |
+| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem |  2   |  Tornar mais clara a intenção de cada label  |
