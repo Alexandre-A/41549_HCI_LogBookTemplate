@@ -18,7 +18,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | ---------------------------------------------------------------------------------------------------------| ------------ | ----------------------------------------------------|
 | Botões de mudar de linguagem não funcionam/mostram feedback                                              | 3            | Implementar a funcionalidade e dar feedback ao user |
 | Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro                                                 | 4            | Corrigir funcionalidade mal implementada            |
-| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar               | 4            | Retirar opção de assinatura ou permitir a visualização das mensagens após o término do contrato, mesmo não podendo enviar novas mensagens |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar               | 4            | Retirar opção de assinatura ou deixá-las visíveis mas impedir escrita |
 | O mapa é uma imagem estática                                                                             | 2            | Implementar um mapa dinâmico, dando liberdade ao user |
 
 
@@ -41,7 +41,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                                                                   | **Severity** | Recommendation                         |
 | ------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- |
-| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas | 4            | Deixá-las visíveis mas impedir escrita |
+| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas | 3            | Facilitar navegação no website |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
@@ -50,7 +50,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                                        | **Severity** | Recommendation                                          |
 | ------------------------------------------------ | ------------ | ------------------------------------------------------- |
-| Existem vários tipos de botão de mudar de língua | 3            | Uniformizar o estilo dos botões pelo site               |
+| Existem vários tipos de botão de mudar de língua | 2            | Uniformizar o estilo dos botões pelo site               |
 
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------- |
 | Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido | 2            | Permitir inserção direta dos valores pretendidos               |
 | O mapa é uma imagem estática | 2            | Implementar um mapa dinâmico, dando liberdade ao user |
-| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar | 4            | Retirar opção de assinatura ou permitir a visualização das mensagens após o término do contrato, mesmo não podendo enviar novas mensagens |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar | 4            | Retirar opção de assinatura ou deixá-las visíveis mas impedir escrita |
 
 
 # 8 Aesthetic and Minimalist Design
