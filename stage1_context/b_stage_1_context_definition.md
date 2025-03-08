@@ -26,8 +26,29 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+*[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]*
 
+> Para a avaliação heurística em questão, **3 experts** foram usados,  nomeadamente cada elemento do grupo. Cada expert fez uma análise individual  pormenorizada do website do competidor escolhido (**BQuarto**), registando  qualquer problema que fosse encontrado, desde pequenos detalhes estéticos a  falhas funcionais do sistema. 
+> Com os problemas registados, decidimos juntar as descobertas feitas por cada um dos experts e discuti-las, de modo a estarmos todos de acordo. 
+> Por fim avançámos com a avaliação, baseando-nos nas **10 heurísticas  de usabilidade de Jakob Nielsen**, nomeadamente: 
+> * **H1** - Visibility of system status 
+> * **H2** - Match between system and the real world  
+> * **H3** - User control and freedom 
+> * **H4** - Consistency and standards 
+> * **H5** - Error prevention 
+> * **H6** - Recognition rather than recall 
+> * **H7** - Flexibility and efficiency of use 
+> * **H8** - Aesthetic and minimalist design 
+> * **H9** - Help users recognize, diagnose, and recover from errors 
+> * **H10** - Help and documentation 
+> 
+> Depois de atribuirmos as heurísticas que considerávamos mais adequadas a cada um dos problemas, categorizámos a gravidade dos mesmos, seguindo uma escala de 0 a 4, que se baseiam na combinação de 3 fatores: a frequência da ocorrência do problema, o impacto que esse problema tem e a persistência do mesmo.
+> Como tal, esta foi a escala seguida:
+> * **0** - I don't agree that this is a usability problem at all;
+> * **1** - Cosmetic problem;
+> * **2** - Minor usability problem;
+> * **3** - Major usability problem;
+> * **4** - Usability catastrophe.
 
 #### Individual Evaluations
 <!-- For the individual heuristic evaluations by each member of the group, you can use the templates below, grouping problems by heuristic OR each evaluator can have a table listing all the detected problems with the number of the violated heuristics on the second column. Whichever your choice, you should have a list of problems, the severity, and a recommendation to mitigate it -->
@@ -47,9 +68,20 @@
 
 | **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| Botões de mudar de linguagem não funcionam/mostram feedback | 3            | 1        | 0        | Something could be done to the button to... |
+| Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro   | 4            | 3        | 4        | Other thing to recommend                    |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar             |  4            |          |          |                                             |
+| O mapa é uma imagem estática             |  2            |          |          |                                             |
+| O design dos botões nos anúncios não indicam o que fazem             |  2            |          |          |                                             |
+| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas             |  3            |          |          |                                             |
+| Existem vários tipos de botão de mudar de língua             | 2             |          |          |                                             |
+| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido             |  2            |          |          |                                             |
+| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming             | 2             |          |          |                                             |
+| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads             |  2            |          |          |                                             |
+| Filtros sem uma label explicativa ( "outro" )             |  3            |          |          |                                             |
+| Botões nos anúncios não indicam oq fazem             | 3             |          |          |                                             |
+| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem             | 2             |          |          |                                             |
+
 
 
 
@@ -84,12 +116,12 @@
 
 Task: [This is the task]
 
-| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
-| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- |
+| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |
+| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |
+| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |
+| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |
 
 ## B.1c. Overall Analysis
 
@@ -119,11 +151,22 @@ Nas entrevistas presenciais realizadas em aula, focámo-nos principalmente nas e
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
-### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+### Interview List (Presencial Interviews)
+| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |
+| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
+| 27-02-2025 | (Eduardo Romano + Tiago Mendes) / students      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |
+| 27-02-2025        | Simão Santos / student                   |                                                                 | Ver nota abaixo                             |
+| 27-02-2025        | Pedro Fonseca / student                   |                                                                 | Ver nota abaixo                             |
+| 27-02-2025        | Tiago Oliveira / student                   |                                                                 |Ver nota abaixo                              |
+| 27-02-2025        | Catarina / student                  |                                                                 |       Ver nota abaixo                       |
+| 27-02-2025        | Matilde / student                  |                                                                 |        Ver nota abaixo                      |
+| 27-02-2025        | Gabriel Gonçalves / student                   |                                                                 | Ver nota abaixo                             |
+| 27-02-2025        | (Henrique + Rodrigo + Eduardo Rosário) / students                   |                                                                 | Ver nota abaixo                             |
+
+**Nota:** O link para as notas presente na tabela representa apenas uma representação "formal" das perguntas feitas presencialmente, tendo sido escolhido arbitrariamente um dos grupos entrevistado para o seu preenchimento. 
+Para ver o conjunto de resultados na sua extensão, consultar o seguinte link: [Presencial_Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1PkgK2dTlNVyNClTKK8XUEyoak6CA1qvrvgNpAFJJ-Ww/edit?usp=sharing) 
+#### Results of the google forms interview
+* Google sheets com os resultados: [Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1eWOvblwGFSEar0d18toHJbEqv9-zWmBSrRjTBFYxbM0/edit?usp=sharing)
 
 ### Common Themes & Patterns 
 
