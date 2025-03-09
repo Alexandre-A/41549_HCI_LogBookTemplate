@@ -1,4 +1,4 @@
-# ![Persona Name](personas/senhorio.png)  
+# ![Persona Name](senhorio.png)  
 **Name:** [Sr. senhorio dono de casas]  
 **Age:** [103]  
 **Occupation:** [Senhorio]  
