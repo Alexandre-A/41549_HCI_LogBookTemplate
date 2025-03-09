@@ -125,8 +125,20 @@ Task: [This is the task]
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+*[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]*
 
+#### List of key points/findings
+
+> Adicionar key ponts/findings
+
+#### HCI SWOT Analysis Table
+
+| SWOT Element  | Description/HCI Focus | Example |
+| ------------- | --------------------- | ------- |
+|  Strengths    |                       |         |
+|  Weaknesses   |                       |         |
+| Opportunities |                       |         |
+|  Threats      |                       |         |
 ---
 
 # B.2. Users
