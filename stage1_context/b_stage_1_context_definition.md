@@ -68,19 +68,19 @@
 
 | **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Botões de mudar de linguagem não funcionam/mostram feedback | 3            | 1        | 0        | Something could be done to the button to... |
+| Botões de mudar de linguagem não funcionam/mostram feedback | 3            | 1        | 3        | Something could be done to the button to... |
 | Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro   | 4            | 3        | 4        | Other thing to recommend                    |
-| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar             |  4            |          |          |                                             |
-| O mapa é uma imagem estática             |  2            |          |          |                                             |
-| O design dos botões nos anúncios não indicam o que fazem             |  2            |          |          |                                             |
-| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas             |  3            |          |          |                                             |
-| Existem vários tipos de botão de mudar de língua             | 2             |          |          |                                             |
-| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido             |  2            |          |          |                                             |
-| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming             | 2             |          |          |                                             |
-| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads             |  2            |          |          |                                             |
-| Filtros sem uma label explicativa ( "outro" )             |  3            |          |          |                                             |
-| Botões nos anúncios não indicam oq fazem             | 3             |          |          |                                             |
-| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem             | 2             |          |          |                                             |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar             |  4            |          | 2         |                                             |
+| O mapa é uma imagem estática             |  2            |          | 1         |                                             |
+| O design dos botões nos anúncios não indicam o que fazem             |  2            |          | 3         |                                             |
+| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas             |  3            |          | 2         |                                             |
+| Existem vários tipos de botão de mudar de língua             | 2             |          | 2         |                                             |
+| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido             |  2            |          | 2         |                                             |
+| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming             | 2             |          | 2         |                                             |
+| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads             |  2            |          | 2         |                                             |
+| Filtros sem uma label explicativa ( "outro" )             |  3            |          |  3        |                                             |
+| Botões nos anúncios não indicam oq fazem             | 3             |          |  3        |                                             |
+| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem             | 2             |          | 2         |                                             |
 
 
 
@@ -129,7 +129,6 @@ Task: [This is the task]
 
 #### List of key points/findings
 
-> Adicionar key ponts/findings
 - O website cobre uma ampla gama de alojamentos e permite contactar diretamente os senhorios.
 - Algumas seções do site são pouco intuitivas, dificultando a navegação do usuário.
 - O layout apresenta redundâncias, elementos pouco chamativos e inconsistências no design.
@@ -145,7 +144,6 @@ Task: [This is the task]
 | Weaknesses    | O site é pouco intuitivo em certas partes, podendo não ser user-friendly. O design do mesmo também é algo que deixa a desejar, com várias redundâncias. Existem falhas funcionais em alguns componentes.<br> | Não há indicação da função de certos botões. Design do website pouco atrativo, com features que por vezes não chamam a atenção. Mudança de língua através dos botões existentes é inconsistente ou não funcional<br>          |
 | Opportunities | Um ambiente mais atraente e user-friendly. Implementação de features que permitissem ao user receber informação adicional e dar mais feedback sobre experiências passadas<br>                                | Usar um melhor esquema de cores e escolher icones que têm significado, para o usuário saber o que fazem. Implementação de uma secção de forum público e criar a possibilidade de fazer reviews de alojamentos e senhorios<br> |
 | Threats       | Têm cobertura nacional e uma elevada userbase. Métodos de comunicação entre pessoas implementados<br>                                                                                                        | O bquartos já abrange uma boa parte do país, com centenas de usuários a usarem diariamente o website. Já possuem um sistema de chat entre membros do website<br>                                                              |
-|  Threats      |                       |         |
 ---
 
 # B.2. Users
