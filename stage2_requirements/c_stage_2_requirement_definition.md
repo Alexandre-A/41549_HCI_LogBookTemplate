@@ -67,10 +67,21 @@
 
 
 ## C.1. Functional requirements
+- The landlord must be able to publish new ads
+- The system must allow students to find available rooms.
+- The system must allow students to refine their search for available rooms based on specific criteria
+- The system must provide a way for users to communicate and share information
+- The system must keep track of the renter-landlord relationship
+- The system must allow renters and landlords to give feedback on their experience with each other
 
 
 ## C.2. Non-functional requirements
-
+Non-Functional requirements:
+- Only authenticated lanlords and students should be able to access their respective dashboards
+- A search query must return results quickly
+- The system must have an intuitive and user-friendly interface
+- The system must work on multiple operating systems ( windows, macos, linux )
+- The plataform must be mobile-friendly
 
 ---
 [Back to main Logbook Page](hci_logbook.md)
