@@ -43,7 +43,7 @@
 > * **H10** - Help and documentation 
 > 
 > Depois de atribuirmos as heurísticas que considerávamos mais adequadas a cada um dos problemas, categorizámos a gravidade dos mesmos, seguindo uma escala de 0 a 4, que se baseiam na combinação de 3 fatores: a frequência da ocorrência do problema, o impacto que esse problema tem e a persistência do mesmo.
-> Como tal, esta foi a escala seguida:
+> Como tal, esta foi a [escala seguida](heuristic_evaluations/severity_scale_heuristic_evaluation.md):
 > * **0** - I don't agree that this is a usability problem at all;
 > * **1** - Cosmetic problem;
 > * **2** - Minor usability problem;
