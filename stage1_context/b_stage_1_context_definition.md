@@ -154,7 +154,7 @@ Nas entrevistas presenciais realizadas em aula, focámo-nos principalmente nas e
 ### Interview List (Presencial Interviews)
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
-| 27-02-2025 | (Eduardo Romano + Tiago Mendes) / students      | Obtiveram online informações sobre o alojamento onde residem, criticam o tempo de resposta dos senhorios e procuram sobretudo acesso fácil a detalhes e reviews de alojamentos e filtragem personalizada de resultados | [📄 Notes](presencial-interview-Eduardo-Tiago.md) |
+| 27-02-2025 | (Eduardo Romano + Tiago Mendes) / students      | Obtiveram online informações sobre o alojamento onde residem, criticam o tempo de resposta dos senhorios e procuram sobretudo acesso fácil a detalhes e reviews de alojamentos e filtragem personalizada de resultados | [📄 Notes](interviews/presencial-interview-Eduardo-Tiago.md) |
 | 27-02-2025        | Simão Santos / student                   | Obteve localmente informações sobre o alojamento onde reside, critica a natureza confusa e falta de informação sobre os mesmos e procura sobretudo acesso fácil a detalhes e reviews de alojamentos e filtragem personalizada de resultados                                                                | Ver nota abaixo                             |
 | 27-02-2025        | Pedro Fonseca / student                   |  Obteve localmente informações sobre o alojamento onde reside, critica falta de contacto com os senhorios e falta de esclarecimento de detalhes dos alojamentos e procura sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e forum de divulgação publico                                                              | Ver nota abaixo                             |
 | 27-02-2025        | Tiago Oliveira / student                   |  Obteve online informações sobre o alojamento onde reside, critica falta de contacto com os senhorios e procura sobretudo acesso fácil a detalhes e reviews de alojamentos, filtragem personalizada de resultados e feature de chat com senhorios                                                             |Ver nota abaixo                              |
@@ -167,6 +167,8 @@ Nas entrevistas presenciais realizadas em aula, focámo-nos principalmente nas e
 Para ver o conjunto de resultados na sua extensão, consultar o seguinte link: [Presencial_Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1PkgK2dTlNVyNClTKK8XUEyoak6CA1qvrvgNpAFJJ-Ww/edit?usp=sharing) 
 #### Results of the google forms interview
 * Google sheets com os resultados das entrevistas online: [Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1eWOvblwGFSEar0d18toHJbEqv9-zWmBSrRjTBFYxbM0/edit?usp=sharing)
+
+* Template das perguntas realizadas: [Online_Interview_Template](interviews/online-interview-template.md)
 
 ### Common Themes & Patterns 
 
