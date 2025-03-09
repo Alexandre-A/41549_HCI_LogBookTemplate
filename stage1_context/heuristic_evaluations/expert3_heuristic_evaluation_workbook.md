@@ -14,12 +14,12 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design clearly communicate its state?
 >	- Is feedback presented quickly after user actions?
 
-| **Issue**                                                                                                | **Severity** | Recommendation                                      |
-| ---------------------------------------------------------------------------------------------------------| ------------ | ----------------------------------------------------|
-| Botões de mudar de linguagem não funcionam/mostram feedback                                              |              |                                                    |
-| Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro   |              |             |
-| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar               |              |                          |
-| O mapa é uma imagem estática                                                                             |              |                    |
+| **Issue**                                                                                                            | **Severity** | Recommendation                                                 |
+| -------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------- |
+| Botões de mudar de linguagem não funcionam/mostram feedback                                                          | 3            | Implementar esses botões e adicionar feedback em caso de falha |
+| Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro | 4            | Informar ao usuário sobre o erro                               |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar                           | 2            | Manter as menssagens visiveis                                  |
+| O mapa é uma imagem estática                                                                                         | 1            | Integrar um mapa dinâmico                                      |
 
 
 
@@ -28,9 +28,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Will user be familiar with the terminology used in the design? 
 >	- Do the design’s controls follow real-world conventions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| O design dos botões nos anúncios não indicam o que fazem |   |              |
+| **Issue**                                                | **Severity** | Recommendation                          |
+| -------------------------------------------------------- | ------------ | --------------------------------------- |
+| O design dos botões nos anúncios não indicam o que fazem | 3            | Adicionar icones que façam mais sentido |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -39,27 +39,27 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Can users easily cancel an action? 
 >	- Is Undo and Redo supported?
 
-| **Issue**                                                                                   | **Severity** | Recommendation                         |
-| ------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- |
-| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas |              |        |
+| **Issue**                                                                                                                                | **Severity** | Recommendation                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------- |
+| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas | 2            | Facilitar a navegação e torná-la mais clara |
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
 >	- Does the design follow industry conventions? 
 >	- Are visual treatments used consistently throughout the design?
 
-| **Issue**                                        | **Severity** | Recommendation                                          |
-| ------------------------------------------------ | ------------ | ------------------------------------------------------- |
-| Existem vários tipos de botão de mudar de língua |              |                  |
+| **Issue**                                        | **Severity** | Recommendation                     |
+| ------------------------------------------------ | ------------ | ---------------------------------- |
+| Existem vários tipos de botão de mudar de língua | 2            | Encontrar um padrão para os icones |
 
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
 >	- Does the design prevent slips by using helpful constraints? 
 >	- Does the design warn users before they perform risky actions?
 
-| **Issue**                                                                                                        | **Severity** | Recommendation                                         |
-| ---------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------ |
-| Clicar em anúncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que houve um erro |              |    |
+| **Issue**                                                                                                             | **Severity** | Recommendation                                        |
+| --------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------- |
+| Clicar em anúncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que houve um erro | 4            | verificar se o anúncio existe antes de abrir a página |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -75,11 +75,11 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
 >	- Is content and funtionality personalized or customized for individual users?
 
-| **Issue**                                                                                                                                        | **Severity** | Recommendation |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------- |
-| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido |              |                |
-| O mapa é uma imagem estática |              |               |
-| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar |              |                |
+| **Issue**                                                                                                                                        | **Severity** | Recommendation                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------------------------------------------- |
+| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido | 2            | Permitir a inserção da data usando o teclado |
+| O mapa é uma imagem estática                                                                                                                     | 1            | Integrar um mapa dinâmico                    |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar                                                       | 2            | Manter as menssagens visiveis                |
 
 
 # 8 Aesthetic and Minimalist Design
@@ -87,27 +87,27 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**                                                                                                    | **Severity** | Recommendation                                         |
-| -------------------------------------------------------------------------------------------------------------| ------------ | ------------------------------------------------------ |
-| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming |              |                        |
-| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads                |              |                        |
+| **Issue**                                                                                                    | **Severity** | Recommendation                             |
+| ------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------ |
+| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming | 2            | Simplificar o design evitando redundâncias |
+| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads                | 2            | Manter só o essencial em cada página       |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 
 >	- Does the design offer a solution that solves the error immediately?
 
-| **Issue**                                                                                                        | **Severity** | Recommendation               |
-| ---------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------- |
-| Botões de ver os anúncios de alojamento ou de procura de quarto existentes na home page levam a uma página vazia |              |                              |
+| **Issue**                                                                                                        | **Severity** | Recommendation                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------- |
+| Botões de ver os anúncios de alojamento ou de procura de quarto existentes na home page levam a uma página vazia | 4            | Apresantar ao usuário alguma menssagem de erro |
 
 # 10 Help and Documentation
 >	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
 >	- Is help documentation easy to search? 
 >	- Is help provided in context right at the moment when the user requires it?
 
-| **Issue**                                          | **Severity** | Recommendation                                 |
-| -------------------------------------------------- | ------------ | ---------------------------------------------- |
-| Filtros sem uma label explicativa ( "outro" )      |              |               |
-| Botões nos anúncios não indicam o que fazem        |              |                |
-| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem |          |                    |
+| **Issue**                                                                                                                       | **Severity** | Recommendation                         |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------- |
+| Filtros sem uma label explicativa ( "outro" )                                                                                   | 3            | Adicionar labels explicativas          |
+| Botões nos anúncios não indicam o que fazem                                                                                     | 3            | Adicionar icones que faça mais sentido |
+| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem | 2            | Simplificar e adicionar labels         |

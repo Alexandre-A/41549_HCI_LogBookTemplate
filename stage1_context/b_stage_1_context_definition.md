@@ -130,14 +130,21 @@ Task: [This is the task]
 #### List of key points/findings
 
 > Adicionar key ponts/findings
+- O website cobre uma ampla gama de alojamentos e permite contactar diretamente os senhorios.
+- Algumas seções do site são pouco intuitivas, dificultando a navegação do usuário.
+- O layout apresenta redundâncias, elementos pouco chamativos e inconsistências no design.
+- A ferramenta de busca oferece uma boa variedade de filtros para personalização da experiência do usuário.
+- Algumas funcionalidades não são bem indicadas e podem dificultar o uso por novos usuários.
+- Há potencial para tornar o ambiente mais atraente e incluir funcionalidades interativas como reviews de alojamentos e senhorios.
 
 #### HCI SWOT Analysis Table
 
-| SWOT Element  | Description/HCI Focus | Example |
-| ------------- | --------------------- | ------- |
-|  Strengths    |                       |         |
-|  Weaknesses   |                       |         |
-| Opportunities |                       |         |
+| SWOT Element  | Description/HCI Focus                                                                                                                                                                                        | Example                                                                                                                                                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Strengths     | Um website na sua grande maioria funcional, com cobertura de alojamentos a nível nacional, oferecendo uma variedade de acomodações com base em preferências<br>                                              | Usando o site é mesmo possivel contactar senhorios numa região especificada. Na secção de procura de alojamento, existe uma boa variedade de filtros para personalizar a experiência<br>                                      |
+| Weaknesses    | O site é pouco intuitivo em certas partes, podendo não ser user-friendly. O design do mesmo também é algo que deixa a desejar, com várias redundâncias. Existem falhas funcionais em alguns componentes.<br> | Não há indicação da função de certos botões. Design do website pouco atrativo, com features que por vezes não chamam a atenção. Mudança de língua através dos botões existentes é inconsistente ou não funcional<br>          |
+| Opportunities | Um ambiente mais atraente e user-friendly. Implementação de features que permitissem ao user receber informação adicional e dar mais feedback sobre experiências passadas<br>                                | Usar um melhor esquema de cores e escolher icones que têm significado, para o usuário saber o que fazem. Implementação de uma secção de forum público e criar a possibilidade de fazer reviews de alojamentos e senhorios<br> |
+| Threats       | Têm cobertura nacional e uma elevada userbase. Métodos de comunicação entre pessoas implementados<br>                                                                                                        | O bquartos já abrange uma boa parte do país, com centenas de usuários a usarem diariamente o website. Já possuem um sistema de chat entre membros do website<br>                                                              |
 |  Threats      |                       |         |
 ---
 
