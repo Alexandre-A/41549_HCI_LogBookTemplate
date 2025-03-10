@@ -9,26 +9,26 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: [Matteo Rossi] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | ![Matteo Rossi\|100](personas/estudante.png)  |
+| **Name**         | [Matteo Rossi]                                |
+| **Age**          | [18]                                 |
+| **Occupation**   | [Estudante]                           |
+| **Location**     | [Roma, Itália -> Aveiro,Portugal]                               |
+| **Goals**        | [Encontrar um quarto que seja confortável, seguro e próximo do seu departamento.]           |
+| **Pain Points**  | [Não encontra nenhuma informação sobre os senhorios; Não está satisfeito com a quantidade de detalhes que encontra nos anúncios]              |
+| **Motivation**   | ["Quero encontrar um quarto sem surpresas desagradáveis. Se pudesse ver avaliações de outros estudantes sobre os senhorios e saber mais detalhes sobre a casa, tomaria uma decisão com mais confiança."]                |
+| **Full Profile** | [📄 Read More](personas/persona2_estudante.md) |
 
 ---
 ## Persona: [Sr. Danilo Oliveira e Silva] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Sr. Danilo Oliveira e Silva](personas/senhorio.png)            |
+| **Photo**        | ![Sr. Danilo Oliveira e Silva\|100](personas/senhorio.png)            |
 | **Name**         | [Sr. Danilo Oliveira e Silva]                                |
 | **Age**          | [68]                                 |
 | **Occupation**   | [CEO de uma multinacional portuguesa e senhorio do seu alojamento]                           |
