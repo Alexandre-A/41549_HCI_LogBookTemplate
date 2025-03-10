@@ -24,19 +24,19 @@
 | **Full Profile** | [📄 Read More](personas/persona1_template.md) |
 
 ---
-## Persona: [Persona Name] 
+## Persona: [Sr. Danilo Oliveira e Silva] 
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Photo**        | ![Sr. Danilo Oliveira e Silva](personas/senhorio.png)            |
+| **Name**         | [Sr. Danilo Oliveira e Silva]                                |
+| **Age**          | [68]                                 |
+| **Occupation**   | [CEO de uma multinacional portuguesa e senhorio do seu alojamento]                           |
+| **Location**     | [Aveiro, Portugal]                               |
+| **Goals**        | [Sucesso da empresa na qual é CEO e arranjar uma forma eficaz de anunciar o alojamento que procura pôr a alugar]           |
+| **Pain Points**  | [Não encontra uma forma fácil para comunicar com possíveis inquilinos; Websites atuais não fornecem informações suficientes sobre as pessoas interessadas em alugar quarto]              |
+| **Motivation**   | ["Quero uma forma fácil de publicitar o meu novo alojamento e de comunicar com os inquilinos. Gostava de ter acesso às informações dos mesmos de modo a tomar a decisão mais acertada."]                |
+| **Full Profile** | [📄 Read More](personas/persona1_senhorio.md) |
 
 ---
 
@@ -46,19 +46,24 @@
 
 # Scenarios
 
-
-## Scenario 1: Maria goes on a Museum Tour
-
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
-
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
-
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+## Scenario 1: Matteo searches for accommodation
+Matteo has just turned 18 and is ready to move to Portugal to pursue his studies in 'Language, Literature and Culture'. 
+He is relentlessly going from page to page in order to find the perfect accomodation in the heart of Aveiro, near his department, but he finds the websites very chunky and not very informative. Moreover, some of them don't even have the ability to change the language to English, nor the personalized search he hoped for, so he is left empty-handed.
+That's when he stumbles upon EasyRoom, a platform that offers just what he needed. Matteo enters the website and changes the language to english. He then proceeds to open the accommodation-search section, where he is met with a great variety of filters which help him narrow down his search to his needs. He ends up reading the reviews and details of the ones he was most fond of, which helped him choose his desired destination. 
 
 ---
+## Scenario 2: Mister Danilo publishes an advertisement for his appartment's rooms
 
+Having recently bought an appartment with three rooms in the center of Aveiro, Mr. Danilo is looking for a way to advertise their rental.
+He navigates through several websites but considers that they either are too troublesome/confusing to fill in and publish, or that the accomodation isn't very well advertised in them. He hasn't had any luck in publishing the accomodation details physically either.
+After a while, he comes across EasyRoom, which offers a very intuitive and easy to fill in interface. He adds the necessary information about the appartment and its respective rooms, and awaits for any offer made by interested students.
+He considers his appartment to be well advertised in this website, which makes him content with his choice.
+
+---
+## Scenario 3: Matteo tries to contact landlords
+Having chosen a set of accommodations that suits his needs, Matteo aims to get in touch with the respective landlords, so that he can move to Aveiro. 
+However, his previous experiences haven't been the greatest, as many of the landlords he contacted through the information on other websites didn't seem to be returning his phone calls, nor responding to his emails. He wonders if they are just ignoring him, too busy to answer or if the contacts are purely outdated. 
+That's when he tries to utilize the EasyRoom's chat feature, which allows him to communicate directly with each landlord. Fortunately, he receives a message back from several of the ones he tried to reach. After negotiating back and forth, he ends up striking a deal with Mister Danilo, who is more than happy to have him there. And so is Matteo, who is thrilled to finally have found the place he will stay in. 
 
 # Requirements
 
