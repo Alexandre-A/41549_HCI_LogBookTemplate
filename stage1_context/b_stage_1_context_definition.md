@@ -66,21 +66,21 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Botões de mudar de linguagem não funcionam/mostram feedback | 3            | 1        | 3        | Something could be done to the button to... |
-| Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro   | 4            | 3        | 4        | Other thing to recommend                    |
-| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar             |  4            |          | 2         |                                             |
-| O mapa é uma imagem estática             |  2            |          | 1         |                                             |
-| O design dos botões nos anúncios não indicam o que fazem             |  2            |          | 3         |                                             |
-| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas             |  3            |          | 2         |                                             |
-| Existem vários tipos de botão de mudar de língua             | 2             |          | 2         |                                             |
-| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido             |  2            |          | 2         |                                             |
-| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming             | 2             |          | 2         |                                             |
-| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads             |  2            |          | 2         |                                             |
-| Filtros sem uma label explicativa ( "outro" )             |  3            |          |  3        |                                             |
-| Botões nos anúncios não indicam oq fazem             | 3             |          |  3        |                                             |
-| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem             | 2             |          | 2         |                                             |
+| **Issue**                                                                                                                                        | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | -------- | -------- | ------------------------------------------- |
+| Botões de mudar de linguagem não funcionam/mostram feedback                                                                                      | 3            | 3        | 3        | Something could be done to the button to... |
+| Clicar em anuncios da homepage ou nos detalhes dos alojamentos leva a uma página vazia e não indica que ouve um erro                             | 4            | 3        | 4        | Other thing to recommend                    |
+| Mensagens recebidas num periodo de assinante não podem ser vistas depois do periodo acabar                                                       | 4            | 4        | 2        |                                             |
+| O mapa é uma imagem estática                                                                                                                     | 2            | 3        | 1        |                                             |
+| O design dos botões nos anúncios não indicam o que fazem                                                                                         | 2            | 4        | 3        |                                             |
+| Estando nas páginas de anúncios, à medida que explora-se mais o site, torna a navegação confusa para eventos como retroceder nas páginas         | 3            | 3        | 2        |                                             |
+| Existem vários tipos de botão de mudar de língua                                                                                                 | 2            | 2        | 2        |                                             |
+| Nos filtros, inserir datas (ou range de preços) é lento por ter de se avançar os valores 1 a 1, não permite meter diretamente o valor pretendido | 2            | 4        | 2        |                                             |
+| Homepage com excessivo texto e links, alguns até não funcionais/repetidos, tornando a navegação overwhelming                                     | 2            | 2        | 2        |                                             |
+| A página "myads" possui muita informação incluindo coisas que já estão na página de criar ads                                                    | 2            | 2        | 2        |                                             |
+| Filtros sem uma label explicativa ( "outro" )                                                                                                    | 3            | 2        | 3        |                                             |
+| Botões nos anúncios não indicam oq fazem                                                                                                         | 3            | 3        | 3        |                                             |
+| Existe uma indexação de perfis de procura e anúncios de alojamento cujas labels são pouco explicativas daquilo para que remetem                  | 2            | 2        | 2        |                                             |
 
 
 
@@ -90,40 +90,100 @@
 
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
-
+Simulou-se todo o processo da aquisição de conhecimento por parte do utilizador para cada tarefa, a partir do seu início comum - a página inicial. Navegámos até ao objetivo final, e concluímos se era, ou não, de fácil acesso. O Cognitive Walkthrough foi executado pelo grupo e não só uma pessoa para promover a diversidade de processos conceptuais na exploração do site.
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
+Posto isto, foram selecionadas 3 tarefas que consideram-se pertinentes para a tipologia de site/plataforma enveredada:
 
+| Task | Subtasks             |
+| ---- | -------------------- |
+| *    | Procurar numa região |
 
-| Task                        | Subtasks                               |
-| --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| Task                        | Subtasks             |
+| --------------------------- | -------------------- |
+| **1. Filtrar uma pesquisa** | *                    |
+|                             | Selecionar um filtro |
 
+| Task                                    | Subtasks                                       |
+| --------------------------------------- | ---------------------------------------------- |
+| **2. Trocar mensagens com um senhorio** | *                                              |
+|                                         | Selecionar o balão de conversa de um resultado |
+|                                         | Efetuar o registo para contactar               |
+|                                         | Submeter e aguardar pelo contacto              |
 
-| Task                          | Subtasks                                |
-| ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| Task                    | Subtasks                                   |
+| ----------------------- | ------------------------------------------ |
+| **3. Alterar o idioma** | Efetuar login                              |
+|                         | Navegar para as preferências               |
+|                         | Trocar a linguagem                         |
+|                         | Carregar num botão para guardar alterações |
 
 
 #### Results
 
-Task: [This is the task]
+Task: [Filtrar uma pesquisa]
 
-| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |
-| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes                                                         | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement         |
+| ------ | ---------------------- | ------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | ----------------------------------- |
+| 1      | Procurar numa região   | Yes                                              |                                                               | Yes                                                                                       |       | Yes                            |                                     |
+| 2      | Selecionar um filtro   | Yes                                              | Depende do botão utilizado, devido à falta de clareza nalguns | No                                                                                        |       | Yes                            | Maior clareza nas opções de filtros |
 
-## B.1c. Overall Analysis
+
+Task: [Trocar mensagens com um senhorio]
+
+| Step # | Task/Action to Perform                         | Will User Know What to do at this step? (Yes/No) | Notes                                           | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement                                                                                                 |
+| ------ | ---------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Procurar numa região                           | Yes                                              |                                                 | Yes                                                                                       |       | Yes                            |                                                                                                                             |
+| 2      | Selecionar o balão de conversa de um resultado | No                                               | Botões pouco visíveis                           | Yes                                                                                       |       | Yes                            |                                                                                                                             |
+| 3      | Efetuar o registo para contactar               | Yes                                              |                                                 | Yes                                                                                       |       | Yes                            |                                                                                                                             |
+| 4      | Submeter e aguardar pelo contacto              | No                                               | Não há garantias nem de resposta nem de leitura | Yes                                                                                       |       | Yes                            | Utilizar um recibo de leitura ou de acesso do senhorio ao site para saber se está a par do anúncio e consequentes mensagens |
+
+Task: [Alterar o idioma]
+
+| Step # | Task/Action to Perform                     | Will User Know What to do at this step? (Yes/No) | Notes                                                                    | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement                                                      |
+| ------ | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | -------------------------------------------------------------------------------- |
+| 1      | Efetuar login                              | No                                               | Metade dos botões de linguagem não funciona senão após o registo e login | No                                                                                        |       | Yes                            | Resolver questões de tradução inconsistentes sobre quais botões funcionam ou não |
+| 2      | Navegar para as preferências               | Yes                                              |                                                                          | Yes                                                                                       |       | Yes                            |                                                                                  |
+| 3      | Trocar a linguagem                         | Yes                                              |                                                                          | Yes                                                                                       |       | Yes                            |                                                                                  |
+| 4      | Carregar num botão para guardar alterações | Yes                                              |                                                                          | Yes                                                                                       |       | Yes                            | Não necessitar de login para alterar a linguagem corretamente                    |
+
+## B1.c. Hierarchical Task Analysis
+
+### Breaking down user actions
+Em conjuntura com análises como o Cognitive Walkthrough, foi também efetuada uma análise por diagramas às diversas tarefas presentes na nossa plataforma de procura de quartos idealizada. Posteriormente serão analisados requisitos relacionados com isto, mas de seguida apresentam-se as diversas opções de navegação do site:
+
+### Publicar um anúncio
+
+![image](https://github.com/user-attachments/assets/c92e8e62-fb5b-4ae3-a947-d568dfa7150a)
+
+
+
+### Contactar pessoas (Mensagem Direta)
+
+![image](https://github.com/user-attachments/assets/cce028d0-d895-4395-b151-ef1ac09a3184)
+
+
+
+### Procurar alojamento
+
+![image](https://github.com/user-attachments/assets/d06b65b0-4081-4a04-9977-fd3455490ed9)
+
+
+
+### Utilizar fórum
+
+![image](https://github.com/user-attachments/assets/b5a0301f-d730-4c7d-9fe6-22e155e1b4b0)
+
+
+
+### Avaliar
+
+![image](https://github.com/user-attachments/assets/e4d35ec7-d511-4376-b3e9-b521499734ef)
+
+
+
+## B.1d. Overall Analysis
 
 *[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]*
 
