@@ -26,17 +26,17 @@
 ---
 ## Persona: [Sr. Danilo Oliveira e Silva] 
 ### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Sr. Danilo Oliveira e Silva\|100](personas/senhorio.png)            |
-| **Name**         | [Sr. Danilo Oliveira e Silva]                                |
-| **Age**          | [68]                                 |
-| **Occupation**   | [CEO de uma multinacional portuguesa e senhorio do seu alojamento]                           |
-| **Location**     | [Aveiro, Portugal]                               |
-| **Goals**        | [Sucesso da empresa na qual é CEO e arranjar uma forma eficaz de anunciar o alojamento que procura pôr a alugar]           |
+| Attribute        | Details                                                                                                                                                                                  |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Photo**        | ![Sr. Danilo Oliveira e Silva\|100](personas/senhorio.png)                                                                                                                               |
+| **Name**         | [Sr. Danilo Oliveira e Silva]                                                                                                                                                            |
+| **Age**          | [68]                                                                                                                                                                                     |
+| **Occupation**   | [CEO de uma multinacional portuguesa e senhorio do seu alojamento]                                                                                                                       |
+| **Location**     | [Aveiro, Portugal]                                                                                                                                                                       |
+| **Goals**        | [Sucesso da empresa na qual é CEO e arranjar uma forma eficaz de anunciar o alojamento que procura pôr a alugar]                                                                         |
 | **Pain Points**  | [Não encontra uma forma fácil para comunicar com possíveis inquilinos; Websites atuais não fornecem informações suficientes sobre as pessoas interessadas em alugar quarto]              |
-| **Motivation**   | ["Quero uma forma fácil de publicitar o meu novo alojamento e de comunicar com os inquilinos. Gostava de ter acesso às informações dos mesmos de modo a tomar a decisão mais acertada."]                |
-| **Full Profile** | [📄 Read More](personas/persona1_senhorio.md) |
+| **Motivation**   | ["Quero uma forma fácil de publicitar o meu novo alojamento e de comunicar com os inquilinos. Gostava de ter acesso às informações dos mesmos de modo a tomar a decisão mais acertada."] |
+| **Full Profile** | [📄 Read More](personas/persona1_senhorio.md)                                                                                                                                            |
 
 ---
 
@@ -47,9 +47,10 @@
 # Scenarios
 
 ## Scenario 1: Matteo searches for accommodation
-Matteo has just turned 18 and is ready to move to Portugal to pursue his studies in 'Language, Literature and Culture'. 
-He is relentlessly going from page to page in order to find the perfect accomodation in the heart of Aveiro, near his department, but he finds the websites very chunky and not very informative. Moreover, some of them don't even have the ability to change the language to English, nor the personalized search he hoped for, so he is left empty-handed.
-That's when he stumbles upon EasyRoom, a platform that offers just what he needed. Matteo enters the website and changes the language to english. He then proceeds to open the accommodation-search section, where he is met with a great variety of filters which help him narrow down his search to his needs. He ends up reading the reviews and details of the ones he was most fond of, which helped him choose his desired destination. 
+O Matteo acabou de fazer 18 anos e está pronto para se mudar para portugal e começar o curso de "Língua, literatura e cultura".
+Ele percorre incansavelmente página por página para encontrar o alojamento perfeito no centro de aveiro, perto do seu apartamento, mas ele acha que os websites não são muito informativos. Além disso, alguns deles nem permitem mudar a linguagem para inglês, nem permitem personalizar a procura., então ele acaba pro sair sempre de mãos vazias.
+É quando ele se depara com a *EasyRoom*, a plataforma que oferece tudo que ele procurava.
+Ele entra no website e muda a lingugem para Inglês. Ele depois abre a aba de procura por acomodações e encontra uma variedade de filtros que o ajudam a ajustar a sua procura com as suas necessidades. Ele acaba por ler reviews e descrições dos anúncios que ele mais gostou, o que o ajudou a escolher uma acomodação. 
 
 ---
 ## Scenario 2: Mister Danilo publishes an advertisement for his appartment's rooms
@@ -67,26 +68,27 @@ That's when he tries to utilize the EasyRoom's chat feature, which allows him to
 
 # Requirements
 
-
-
-
-
 ## C.1. Functional requirements
-- The landlord must be able to publish new ads
-- The system must allow students to find available rooms.
-- The system must allow students to refine their search for available rooms based on specific criteria
-- The system must provide a way for users to communicate and share information
-- The system must keep track of the renter-landlord relationship
-- The system must allow renters and landlords to give feedback on their experience with each other
+- O senhorio tem de ser capaz de adicionar novo anúncios personalizados.
+- O senhorio tem de ser capaz de editar os seus anúncios.
+- O senhorio tem de ser capaz de remover os anúncios que publicou. 
+- O sistema deve prover ao aluno uma lista de anúncios publicados.
+- O sistema deve permitir aos estudantes refinar a procura por quartor disponíveis com base em critérios especificos.
+- Os estudantes devem ser capazes de contactar os senhorios.
+- O sistema deve fornecer um forum para que os usuários se comunicarem e partilharem informações 
+- The system must provide a forum for users to communicate and share information
+- O sistema deve monitorar o relacionamento senhorio-inquilino
+- O sistema deve permitir que os inquilinos e senhorios deem feedback sobre suas experiências uns com os outros.
 
 
 ## C.2. Non-functional requirements
 Non-Functional requirements:
-- Only authenticated lanlords and students should be able to access their respective dashboards
-- A search query must return results quickly
-- The system must have an intuitive and user-friendly interface
-- The system must work on multiple operating systems ( windows, macos, linux )
-- The plataform must be mobile-friendly
+- Apenas proprietários e alunos autenticados devem conseguir acessar seus respectivos painéis
+- Uma pesquisa deve retornar resultados rapidamente
+- O sistema deve ter uma interface intuitiva e amigável
+- O sistema deve funcionar em vários sistemas operacionais (Windows, macOS, Linux)
+- A plataforma deve ser compatível com dispositivos móveis
+- A plataforma deve oferecer suporte a pelo menos dois idioma
 
 ---
 [Back to main Logbook Page](hci_logbook.md)
