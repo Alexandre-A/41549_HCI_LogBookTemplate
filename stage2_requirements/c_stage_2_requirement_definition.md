@@ -57,14 +57,15 @@ Ele entra no website e muda a lingugem para Inglês. Ele depois abre a aba de pr
 
 Tendo comprado recentemente um apartamento com três quartos no centro de Aveiro, o Sr. Danilo está à procura de uma forma de anunciar o seu arrendamento.
 Ele navega por vários websites mas considera que ou são demasiado problemáticos/confusos de preencher e publicar, ou que o alojamento não está bem publicitado neles. O Sr. Danilo também não teve sorte nenhuma ao publicar os detalhes do alojamento fisicamente.
-Ao fim de algum tempo, ele descobre a EasyRoom, que oferece uma interface muito intuitiva e fácil de preencher. Ele adiciona a informação necessária acerca do apartamento e dos respetivos quartos, e aguarda por qualquer oferta feita por estudantes interessados.
+Ao fim de algum tempo, ele descobre a *EasyRoom*, que oferece uma interface muito intuitiva e fácil de preencher. Ele adiciona a informação necessária acerca do apartamento e dos respetivos quartos, e aguarda por qualquer oferta feita por estudantes interessados.
 O Sr. Danilo considera que o seu apartamento está bem anunciado neste website, o que o deixa satisfeito com a sua escolha.
 
 ---
 ## Scenario 3: Matteo tries to contact landlords
-Having chosen a set of accommodations that suits his needs, Matteo aims to get in touch with the respective landlords, so that he can move to Aveiro. 
-However, his previous experiences haven't been the greatest, as many of the landlords he contacted through the information on other websites didn't seem to be returning his phone calls, nor responding to his emails. He wonders if they are just ignoring him, too busy to answer or if the contacts are purely outdated. 
-That's when he tries to utilize the EasyRoom's chat feature, which allows him to communicate directly with each landlord. Fortunately, he receives a message back from several of the ones he tried to reach. After negotiating back and forth, he ends up striking a deal with Mister Danilo, who is more than happy to have him there. And so is Matteo, who is thrilled to finally have found the place he will stay in. 
+Tendo escolhido um conjunto de alojamentos que condizem com as suas necessidades,o Matteo procura entrar em contacto com os respetivos senhorios, para que ele se possa finalmente mudar para Aveiro.
+Contudo, as experiẽncias passadas dele não têm sido as melhores, já que muitos dos senhorios que ele contactou no passado através das informações retiradas de outros websites não retornavam as suas chamadas, nem respondiam aos emails dele. Ele pondera se eles apenas o estarão a ignorar, demasiado ocupados para dar resposta, ou se os contactos que ele obteve estão simplesmente desatualizados.
+É nesse momento que ele tenta utilizar a feature de chat da *EasyRoom*, que lhe permite comunicar diretamente com cada senhorio. Felizmente, ele recebe mensagens de volta por parte de vários daqueles que tentou contactar. Depois de negociar bem, acaba por definir um acordo com o senhor Danilo, que está mais do que contente por o ter lá. E igualmente está o Matteo, que se sente excitado por finalmente ter encontrado o lugar onde vai ficar.
+
 
 # Requirements
 
