@@ -54,10 +54,10 @@ That's when he stumbles upon EasyRoom, a platform that offers just what he neede
 ---
 ## Scenario 2: Mister Danilo publishes an advertisement for his appartment's rooms
 
-Having recently bought an appartment with three rooms in the center of Aveiro, Mr. Danilo is looking for a way to advertise their rental.
-He navigates through several websites but considers that they either are too troublesome/confusing to fill in and publish, or that the accomodation isn't very well advertised in them. He hasn't had any luck in publishing the accomodation details physically either.
-After a while, he comes across EasyRoom, which offers a very intuitive and easy to fill in interface. He adds the necessary information about the appartment and its respective rooms, and awaits for any offer made by interested students.
-He considers his appartment to be well advertised in this website, which makes him content with his choice.
+Tendo comprado recentemente um apartamento com três quartos no centro de Aveiro, o Sr. Danilo está à procura de uma forma de anunciar o seu arrendamento.
+Ele navega por vários websites mas considera que ou são demasiado problemáticos/confusos de preencher e publicar, ou que o alojamento não está bem publicitado neles. O Sr. Danilo também não teve sorte nenhuma ao publicar os detalhes do alojamento fisicamente.
+Ao fim de algum tempo, ele descobre a EasyRoom, que oferece uma interface muito intuitiva e fácil de preencher. Ele adiciona a informação necessária acerca do apartamento e dos respetivos quartos, e aguarda por qualquer oferta feita por estudantes interessados.
+O Sr. Danilo considera que o seu apartamento está bem anunciado neste website, o que o deixa satisfeito com a sua escolha.
 
 ---
 ## Scenario 3: Matteo tries to contact landlords
