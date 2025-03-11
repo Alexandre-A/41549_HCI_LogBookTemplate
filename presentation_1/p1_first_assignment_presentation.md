@@ -20,7 +20,7 @@ Use this checklist as a guide to the minimum items to cover for your project up 
 - [X] Requirements
 - [X] Decide on overall characteristics of solution: mobile/desktop/web; interaction modalities
 - [ ] Conclusions + what went right/wrong
-- [ ] Self-assessment of work + report Percentage of contribution by each group member
+- [X] Self-assessment of work + report Percentage of contribution by each group member
 - [ ] Does the presentation fit in 15 minutes
 
 
