@@ -97,9 +97,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design use traditional error message visuals, like bold, red text? 
 >	- Does the design offer a solution that solves the error immediately?
 
-| **Issue**                                                                                                        | **Severity** | Recommendation               |
-| ---------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------- |
-| Botões de ver os anúncios de alojamento ou de procura de quarto existentes na home page levam a uma página vazia | 4            | Dar feedback em caso de erro |
+| **Issue**                                                                                                       | **Severity** | Recommendation               |
+| --------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------- |
+| Botões de ver os anúncios de alojamento ou de procura de quarto existentes na homepage levam a uma página vazia | 4            | Dar feedback em caso de erro |
 
 # 10 Help and Documentation
 >	It’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks. 
