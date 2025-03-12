@@ -5,22 +5,22 @@
 # Presentation Checklist
 Use this checklist as a guide to the minimum items to cover for your project up to the first presentation.
 
-- [X] Explain the context for my problem
-- [X] Make it evident why thinking about this is important / Challenges
-- [X] Overview of competitors
-- [X] Identification of main competitor and rationale
-- [X] Summary of methods used to analyse the main competitor
-- [X] Method for heuristic evaluation
-- [X] Overall results for heuristic evaluation and highlights
-- [X] Method for cognitive walkthrough
-- [X] Identify tasks, illustrate with example, main findings
-- [X] Interviews with users / how many / main findings
-- [X] Target users: Personas / Brief presentation of profile + motivation
-- [X] Scenarios / How many / Illustrate for one situation
-- [X] Requirements
-- [X] Decide on overall characteristics of solution: mobile/desktop/web; interaction modalities
+- [x] Explain the context for my problem
+- [x] Make it evident why thinking about this is important / Challenges
+- [x] Overview of competitors
+- [x] Identification of main competitor and rationale
+- [x] Summary of methods used to analyse the main competitor
+- [x] Method for heuristic evaluation
+- [x] Overall results for heuristic evaluation and highlights
+- [x] Method for cognitive walkthrough
+- [x] Identify tasks, illustrate with example, main findings
+- [x] Interviews with users / how many / main findings
+- [x] Target users: Personas / Brief presentation of profile + motivation
+- [x] Scenarios / How many / Illustrate for one situation
+- [x] Requirements
+- [x] Decide on overall characteristics of solution: mobile/desktop/web; interaction modalities
 - [ ] Conclusions + what went right/wrong
-- [X] Self-assessment of work + report Percentage of contribution by each group member
+- [x] Self-assessment of work + report Percentage of contribution by each group member
 - [ ] Does the presentation fit in 15 minutes
 
 
