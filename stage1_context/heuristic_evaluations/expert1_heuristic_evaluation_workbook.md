@@ -30,7 +30,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| O design dos botões nos anúncios não indicam o que fazem | 2 | Tornar os botões mais explícitos |
+| O design dos botões nos anúncios não indica o que fazem | 2 | Tornar os botões mais explícitos |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
