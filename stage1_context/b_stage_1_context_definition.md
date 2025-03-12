@@ -109,12 +109,12 @@ Posto isto, foram selecionadas 3 tarefas que consideram-se pertinentes para a ti
 | --------------------------------------- | ---------------------------------------------- |
 | **2. Trocar mensagens com um senhorio** | *                                              |
 |                                         | Selecionar o balão de conversa de um resultado |
-|                                         | Efetuar o registo para contactar               |
+|                                         | Efetuar o registo/login para contactar         |
 |                                         | Submeter e aguardar pelo contacto              |
 
 | Task                    | Subtasks                                   |
 | ----------------------- | ------------------------------------------ |
-| **3. Alterar o idioma** | Efetuar login                              |
+| **3. Alterar o idioma** | Efetuar o registo/login                    |
 |                         | Navegar para as preferências               |
 |                         | Trocar a linguagem                         |
 |                         | Carregar num botão para guardar alterações |
