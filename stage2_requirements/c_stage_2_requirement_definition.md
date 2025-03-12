@@ -41,6 +41,39 @@
 ---
 
 
+# Hierarchical Task Analysis
+
+### Breaking down user actions
+Em conjuntura com análises como o Cognitive Walkthrough, foi também efetuada uma análise por diagramas às diversas tarefas presentes na nossa plataforma de procura de quartos idealizada. Posteriormente serão analisados requisitos relacionados com isto, mas de seguida apresentam-se as diversas opções de navegação do site:
+
+### Publicar um anúncio
+
+![image](https://github.com/user-attachments/assets/c92e8e62-fb5b-4ae3-a947-d568dfa7150a)
+
+
+
+### Contactar pessoas (Mensagem Direta)
+
+![image](https://github.com/user-attachments/assets/cce028d0-d895-4395-b151-ef1ac09a3184)
+
+
+
+### Procurar alojamento
+
+![image](https://github.com/user-attachments/assets/d06b65b0-4081-4a04-9977-fd3455490ed9)
+
+
+
+### Utilizar fórum
+
+![image](https://github.com/user-attachments/assets/b5a0301f-d730-4c7d-9fe6-22e155e1b4b0)
+
+
+
+### Avaliar
+
+![image](https://github.com/user-attachments/assets/e4d35ec7-d511-4376-b3e9-b521499734ef)
+
 
 
 
