@@ -35,4 +35,4 @@ Oportunidades para uma abordagem customizável:
 Com este projeto, procuramos combater as dificuldades inerentes à procura de alojamento universitário a nível nacional, e ao contacto com os respetivos senhorios.
 
 
-[Back to main Logbook Page](hci_logbook.md)
+[Back to main Logbook Page](../hci_logbook.md)
