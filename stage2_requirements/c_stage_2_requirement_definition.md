@@ -110,7 +110,6 @@ Contudo, as experiẽncias passadas dele não têm sido as melhores, já que mui
 - O sistema deve permitir aos estudantes refinar a procura por quartor disponíveis com base em critérios especificos.
 - Os estudantes devem ser capazes de contactar os senhorios.
 - O sistema deve fornecer um forum para que os usuários se comunicarem e partilharem informações 
-- The system must provide a forum for users to communicate and share information
 - O sistema deve monitorar o relacionamento senhorio-inquilino
 - O sistema deve permitir que os inquilinos e senhorios deem feedback sobre suas experiências uns com os outros.
 
