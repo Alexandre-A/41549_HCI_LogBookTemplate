@@ -21,7 +21,18 @@
 ---
 
 ## Screenshots
-
+* **HomePageBQuarto**
+![HomePageBQuarto.png](HomePageBQuarto.png)
+---
+* **AdvertisementBQuarto**
+![AdvertisementBQuarto](AdvertisementBQuarto.png)
+---
+* **SearchPageBQuarto**
+![SearchPageBQuarto.png](SearchPageBQuarto.png)
+---
+* **LoginScreenBQuarto**
+![LoginScreenBQuarto.png](LoginScreenBQuarto.png)
+---
 
 ## Online Reviews
 
