@@ -54,7 +54,7 @@ Em conjuntura com análises como o Cognitive Walkthrough, foi também efetuada u
 
 ### Contactar pessoas (Mensagem Direta)
 
-![image](https://github.com/user-attachments/assets/cce028d0-d895-4395-b151-ef1ac09a3184)
+![image](https://github.com/user-attachments/assets/720b89ef-1e3e-4a3d-b545-5fb07a07835a)
 
 
 
