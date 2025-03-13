@@ -121,7 +121,7 @@ Non-Functional requirements:
 - O sistema deve ter uma interface intuitiva e amigável
 - O sistema deve funcionar em vários sistemas operacionais (Windows, macOS, Linux)
 - A plataforma deve ser compatível com dispositivos móveis
-- A plataforma deve oferecer suporte a pelo menos dois idioma
+- A plataforma deve oferecer suporte a pelo menos dois idiomas
 
 ---
 [Back to main Logbook Page](hci_logbook.md)
