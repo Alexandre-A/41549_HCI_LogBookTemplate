@@ -89,11 +89,13 @@
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+*[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]*
+
 Simulou-se todo o processo da aquisição de conhecimento por parte do utilizador para cada tarefa, a partir do seu início comum - a página inicial. Navegámos até ao objetivo final, e concluímos se era, ou não, de fácil acesso. O Cognitive Walkthrough foi executado pelo grupo e não só uma pessoa para promover a diversidade de processos conceptuais na exploração do site.
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
+*[Which tasks did you select and why. What are the subtasks entailed for each ]*
+
 Posto isto, foram selecionadas 3 tarefas que consideram-se pertinentes para a tipologia de site/plataforma enveredada:
 
 | Task | Subtasks             |
@@ -169,7 +171,7 @@ Task: [Alterar o idioma]
 | Strengths     | Um website na sua grande maioria funcional, com cobertura de alojamentos a nível nacional, oferecendo uma variedade de acomodações com base em preferências<br>                                              | Usando o site é mesmo possivel contactar senhorios numa região especificada. Na secção de procura de alojamento, existe uma boa variedade de filtros para personalizar a experiência<br>                                                                                                                                                                                                                                                                           |
 | Weaknesses    | O site é pouco intuitivo em certas partes, podendo não ser user-friendly. O design do mesmo também é algo que deixa a desejar, com várias redundâncias. Existem falhas funcionais em alguns componentes.<br> | Não há indicação da função de certos botões. Design do website pouco atrativo, com features que por vezes não chamam a atenção. Mudança de língua através dos botões existentes é inconsistente ou não funcional<br>                                                                                                                                                                                                                                               |
 | Opportunities | Um ambiente mais atraente e user-friendly. Implementação de features que permitissem ao user receber informação adicional e dar mais feedback sobre experiências passadas<br>                                | Usar um melhor esquema de cores e escolher icones que têm significado, para o usuário saber o que fazem. Implementação de uma secção de forum público e criar a possibilidade de fazer reviews de alojamentos e senhorios<br>                                                                                                                                                                                                                                      |
-| Threats       | Elevada competição no mercado. Possíveis problemas de segurança. Limitações tecnológicas, face a tecnologias emergentes.                                                                                     | mercado da procura de alojamento/quartos é uma área bastante competitiva, com bastantes competidores distintos. Com a expansão do website para acomodar mais users, podem surgir problemas de segurança (ou problemas funcionais, como se viu pela nossa testagem). O recurso a algoritmos de machine learning e inteligência artificial para recomendar quartos com base em pesquisas passadas pode ser algo que competidores implementem e lhes traga vantagens. |
+| Threats       | Elevada competição no mercado. Possíveis problemas de segurança. Limitações tecnológicas, face a tecnologias emergentes.                                                                                     | O mercado da procura de alojamento/quartos é uma área bastante competitiva, com bastantes competidores distintos. Com a expansão do website para acomodar mais users, podem surgir problemas de segurança (ou problemas funcionais, como se viu pela nossa testagem). O recurso a algoritmos de machine learning e inteligência artificial para recomendar quartos com base em pesquisas passadas pode ser algo que competidores implementem e lhes traga vantagens. |
 
 # B.2. Users
 >	For the users, there are two goals: 1) understand the current status of users in the domain you are addressing. How do they manage, what are the main tasks they do, if they use some tool for the purpose, what are current challenges, what might be improved, what might be new features, ...
