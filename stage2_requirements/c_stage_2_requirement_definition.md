@@ -124,4 +124,4 @@ Non-Functional requirements:
 - A plataforma deve oferecer suporte a pelo menos dois idiomas
 
 ---
-[Back to main Logbook Page](hci_logbook.md)
+[Back to main Logbook Page](../hci_logbook.md)
