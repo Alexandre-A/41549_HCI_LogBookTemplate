@@ -19,9 +19,9 @@ Use this checklist as a guide to the minimum items to cover for your project up 
 - [x] Scenarios / How many / Illustrate for one situation
 - [x] Requirements
 - [x] Decide on overall characteristics of solution: mobile/desktop/web; interaction modalities
-- [ ] Conclusions + what went right/wrong
+- [X] Conclusions + what went right/wrong
 - [x] Self-assessment of work + report Percentage of contribution by each group member
-- [ ] Does the presentation fit in 15 minutes
+- [X] Does the presentation fit in 15 minutes
 
 
 # Readings
