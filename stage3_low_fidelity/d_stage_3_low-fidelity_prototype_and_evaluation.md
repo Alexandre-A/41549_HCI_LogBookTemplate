@@ -34,6 +34,12 @@ Focámo-nos no desenvolvimento de três tasks (que abrangessem as principais fea
 
 Aqui ficam alguns dos destaques desta etapa do protótipo, no formato de fotografia. Se houver curiosidade em consultar as restantes fotografias, ver a seguinte pasta: [LFD_development_photos](./LFD_development_photos/)
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="./LFD_development_photos/First_sketch.jpeg" alt="First Sketch" style="width: 45%;"/>
+  <img src="./LFD_development_photos/Improved_version.jpeg" alt="Improved Version" style="width: 45%;"/>
+</div>
+
+
 ---
 ## D.2. Prototype Evaluation
 
