@@ -48,31 +48,31 @@ Em conjuntura com análises como o Cognitive Walkthrough, foi também efetuada u
 
 ### Publicar um anúncio
 
-![image](https://github.com/user-attachments/assets/c92e8e62-fb5b-4ae3-a947-d568dfa7150a)
+![image](https://github.com/user-attachments/assets/f3de17b9-1b1c-41d6-95ae-4270897dc3ab)
 
 
 
 ### Contactar pessoas (Mensagem Direta)
 
-![image](https://github.com/user-attachments/assets/720b89ef-1e3e-4a3d-b545-5fb07a07835a)
+![image](https://github.com/user-attachments/assets/85a64502-ddc9-454a-9bff-50ce2892f7c6)
 
 
 
 ### Procurar alojamento
 
-![image](https://github.com/user-attachments/assets/d06b65b0-4081-4a04-9977-fd3455490ed9)
+![image](https://github.com/user-attachments/assets/19b48a97-a04f-4176-bf69-514a54001817)
 
 
 
 ### Utilizar fórum
 
-![image](https://github.com/user-attachments/assets/b5a0301f-d730-4c7d-9fe6-22e155e1b4b0)
+![image](https://github.com/user-attachments/assets/409951e3-312c-4c72-a36a-07448858050f)
 
 
 
 ### Avaliar
 
-![image](https://github.com/user-attachments/assets/e4d35ec7-d511-4376-b3e9-b521499734ef)
+![image](https://github.com/user-attachments/assets/c2c12cf3-113f-44af-bd65-c90c34b2ba7b)
 
 
 

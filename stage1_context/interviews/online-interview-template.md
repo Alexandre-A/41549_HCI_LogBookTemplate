@@ -4,7 +4,7 @@
 - **Date:** [YYYY-MM-DD] 
 - **Interviewer:** [-----------] 
 - **Participant:** [University student] 
-- **Context:** [Interview done though a google form] 
+- **Context:** [Interview done through a google form] 
 
 --- 
 ## Interviewee Data 
