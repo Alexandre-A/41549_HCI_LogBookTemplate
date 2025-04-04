@@ -43,8 +43,19 @@ Aqui ficam alguns dos destaques desta etapa do protótipo, no formato de fotogra
 ---
 ## D.2. Prototype Evaluation
 
-### Tasks
+Para a avaliação do protótipo, vários dos colegas da nossa turma prática testaram-no, de acordo com as indicações das tasks descritas anteriormente. Dividimos as tarefas da explicação das tasks, passagem das folhas para simular interatividade e anotação de apontamentos equitativamente pelos 3 membros do grupo, rodando entre todos dependendo de quantos membros estivessem presentes no momento em que um novo teste fosse começar.
 
+A prestação dos testers foi bastante positiva, tendo todos eles conseguido completar todas as tasks que lhes foram propostas com relativa facilidade. No geral, o feedback que foi dado foi favorável.
+
+No total, 7 pessoas testaram o nosso Low Fidelity Prototype. Tomámos notas não só de qualquer comentário ou crítica que nos foi dado ao longo da testagem, mas também de qualquer tipo de entrave ou dificuldade que um ou outro user fosse tendo. Assim sendo, ficámos com os seguintes registos:
+
+> Escrever registos
+
+Vale a pena destacar que estes apontamentos são na sua grande maioria sugestões/pontos a melhorar, pois considerámos que era mais benéfico registar coisas que pudessem ser aperfeiçoadas ou alteradas comparativamente a feedback geral positivo.
+
+Aqui ficam alguns dos destaques desta etapa do protótipo, no formato de fotografia. Se houver curiosidade em consultar as restantes fotografias, ver a seguinte pasta: [LFD_testing_photos](./LFD_testing_photos/)
+
+![Full_setup](./LFD_testing_photos/Full_setup.jpg)
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)
