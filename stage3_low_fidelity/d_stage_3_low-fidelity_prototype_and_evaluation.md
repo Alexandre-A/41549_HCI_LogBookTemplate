@@ -13,17 +13,29 @@ Acabámos por imprimir os designs, para que os utilizadores podessem experimenta
 Focámo-nos no desenvolvimento de três tasks (que abrangessem as principais features), nomeadamente:
 1. **Publicação de um anúncio por parte de um senhorio:**
 >Suponha que está no papel de um senhorio, o senhor Miguel Avô, que acabou de comprar um apartamento e pretende publicar informação sobre um dos quartos a arrendar. Aceda à área de senhorio e crie/publique um novo anúncio com os seguintes detalhes:
+>
 >**Nome:** Quarto perto do deti
+>
 >**Data:** 1/04/2025
+>
 >**Género:** Rapaz
+>
 >**Preço:** 320
+>
 >**Nº Quartos:** 1
+>
 >**Descrição:** Quarto grande num t2
+>
 >**Localização:** Aveiro, Aveiro, Avenida Dr. Lourenço Peixinho…
+>
 >**Idade:** 18 a 23
+>
 >**Casais:** Não
+>
 >**Despesas incluídas:** Sim
+>
 >**Casa de banho:** individual
+>
 >**Tags:** Rapaz, T2, Casa de Banho privativa
 
 2. **Task do Thiago**
