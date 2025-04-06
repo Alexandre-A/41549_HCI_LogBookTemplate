@@ -61,7 +61,36 @@ A prestação dos testers foi bastante positiva, tendo todos eles conseguido com
 
 No total, 7 pessoas testaram o nosso Low Fidelity Prototype. Tomámos notas não só de qualquer comentário ou crítica que nos foi dado ao longo da testagem, mas também de qualquer tipo de entrave ou dificuldade que um ou outro user fosse tendo. Assim sendo, ficámos com os seguintes registos:
 
-> Escrever registos
+#### Pessoa 1
+- Demonstrou dúvidas acerca da representação do botão de coração ser para reviews ou não;
+- Sugeriu que em pop-ups, utilizar uma cor de fundo na página poderia levar o utilizador a entender que pode clicar fora para sair;
+- Propôs que as mensagens do fórum dentro do post fossem todas alinhadas à esquerda, comos os fóruns tradicionais.
+
+#### Pessoa 2
+- Demonstrou dúvidas nos botões com setas presentes na preview do anúncio antes de publicar;
+- Foi proposto melhorar a claridade do botão de contacto de senhorios, pois o ícone pode induzir em erro para abrir uma secção de comentários que já existe;
+- Apontou que o post mais recente do fórum não está clara pela ordem dos posts em cada thread. 
+
+#### Pessoa 3
+- Propôs opções default neutras nos diversos dropdowns da criação de um anúncio;
+- Achou indicado remover o botão de informação de um anúncio, visto que clicar no retângulo todo já leva o utilizador à mesma página.
+
+#### Pessoa 4
+- Na criação de um anúncio, achou interessante na escolha da localização haver uma seleção através de um mapa, além das simples 3 entradas de texto presentes;
+- Na pesquisa de anúncios, aquando da utilização de filtros, podia existir um botão de aceitar/adicionar o filtro escolhido para ser mais intuitivo ao utilizador. 
+
+#### Pessoa 5
+- Considerou como a pessoa 3 o botão de informação de anúncio redundante, apesar de considerar que pode ser uma ajuda válida;
+- Achou o protótipo do site intuitivo de um ponto de vista geral.
+  
+#### Pessoa 6
+- Sugeriu o dropdown dos distritos ser exclusivamente vertical;
+- Também encontrou problemas em compreender as setas de voltar atrás ou de editar, na secção de preview da criação do anúncio. Sugeriu o seu reposicionamento;
+- Considerou que o botão de explorar devia ser mais claro, na página inicial;
+- Propôs uma melhoria do filtro, em geral.
+  
+#### Pessoa 7 
+- Achou que devia ser clarificado o contexto de aquisição de quartos idealizado pela nossa proposta.
 
 Vale a pena destacar que estes apontamentos são na sua grande maioria sugestões/pontos a melhorar, pois considerámos que era mais benéfico registar coisas que pudessem ser aperfeiçoadas ou alteradas comparativamente a feedback geral positivo.
 
