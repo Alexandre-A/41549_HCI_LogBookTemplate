@@ -12,7 +12,7 @@ Acabámos por imprimir os designs, para que os utilizadores podessem experimenta
 
 Focámo-nos no desenvolvimento de três tasks (que abrangessem as principais features), nomeadamente:
 1. **Publicação de um anúncio por parte de um senhorio:**
->Suponha que está no papel de um senhorio, o senhor Miguel Avô, que acabou de comprar um apartamento e pretende publicar informação sobre um dos quartos a arrendar. Aceda à área de senhorio e crie/publique um novo anúncio com os seguintes detalhes:
+>"Suponha que está no papel de um senhorio, o senhor Miguel Avô, que acabou de comprar um apartamento e pretende publicar informação sobre um dos quartos a arrendar. Aceda à área de senhorio e crie/publique um novo anúncio com os seguintes detalhes":
 >
 >**Nome:** Quarto perto do deti
 >
@@ -41,8 +41,8 @@ Focámo-nos no desenvolvimento de três tasks (que abrangessem as principais fea
 2. **Task do Thiago**
 > Escrever aqui
 
-3. **Task do Miguel**
-> Escrever aqui
+3. **Acesso ao fórum e resposta a post**
+>"Agora, ainda como inquilino, decide passar para a secção de fórum, navegar até ao post mais recente, e responder ao assunto em questão com algum texto."
 
 Aqui ficam alguns dos destaques desta etapa do protótipo, no formato de fotografia. Se houver curiosidade em consultar as restantes fotografias, ver a seguinte pasta: [LFD_development_photos](./LFD_development_photos/)
 
