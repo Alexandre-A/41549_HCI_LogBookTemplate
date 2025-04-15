@@ -38,8 +38,8 @@ Focámo-nos no desenvolvimento de três tasks (que abrangessem as principais fea
 >
 >**Tags:** Rapaz, T2, Casa de Banho privativa
 
-2. **Task do Thiago**
-> Escrever aqui
+2. **Contacto ao senhorio por parte do estudante**
+> És o Miguel Neto e acabaste de ser aceite na UA. Procura o anúncio de um quarto para rapaz em aveiro que seja perto da universidade e, de preferência, tenha uma casa de banho privativa e envie uma menssagem ao senhorio.
 
 3. **Acesso ao fórum e resposta a post**
 >"Agora, ainda como inquilino, decide passar para a secção de fórum, navegar até ao post mais recente, e responder ao assunto em questão com algum texto."
